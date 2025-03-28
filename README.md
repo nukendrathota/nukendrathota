@@ -1,9 +1,6 @@
 ## Hi there 👋
 I am Nukendra.
 ### About Me:
-👨‍🎓 I graduated with a Master's in Business Analytics from UMass Amherst.
-
-🧑‍💼 I previously worked with India's largest public bank, the State Bank of India as an Assistant Manager.
 
 🌱 I am learning SQL, Tableau, Power BI, Python, Tableau Prep and Power BI.
 
@@ -11,7 +8,7 @@ I am Nukendra.
 
 🎾🎦🚴 Outside of data, I am interested in tennis, cinema and cycling.
 
-📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/nukethota/)
+
 
 ### 🛠️ Skills: 
 <div>
